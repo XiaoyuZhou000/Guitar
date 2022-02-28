@@ -1,0 +1,32 @@
+Assesement 2: GuitarHero Reflection
+
+1) What did you learn from working on this 
+assignment?
+Array can be the array for all the object. The array of the object is a good 
+way to store a series of same type data.
+
+2) What did you struggle most with on this 
+assignment? How did you work to overcome 
+that struggle (even if you weren't able to)?
+I struggle how to create array of GuitarString first and I look up the syntax 
+of array and example code to solve that. And then debugging is the most struggling 
+problem. I posted questions on ed and asked for help.
+
+3) How will you use what you learned from 
+this assignment to improve your process or 
+approach on future assignments?
+The first skill I learned is that in the calculation process, the number should be calculated
+with decimal point for accuracy. The second skill is about array of an object.
+
+4) Was any part of the specification or 
+requirements unclear? If so, what part(s), 
+and how could it have been made clearer?
+If there are more instruction about the function of the code, that will be better.
+
+5) About how many hours did you spend working 
+on this assignment? (Estimates are fine, but 
+try to get close)
+reading specification: 0.5h
+coding: 1h
+debugging: 2h over 3 days
+commenting: less than 1h
